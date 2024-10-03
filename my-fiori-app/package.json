@@ -6,6 +6,10 @@
     "start": "ui5 serve"
   },
   "dependencies": {
-    "@ui5/cli": "^2.14.0"
-  }
+    "@ui5/cli": "^4.0.8"
+  },
+  "main": "index.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
 }
