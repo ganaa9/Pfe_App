@@ -1,11 +1,11 @@
 {
   "name": "my-fiori-app",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "A simple Fiori UI5 application",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "ui5 serve"
   },
-  "author": "",
-  "license": "ISC"
+  "dependencies": {
+    "@ui5/cli": "^2.14.0"
+  }
 }
