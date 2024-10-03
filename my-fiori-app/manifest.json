@@ -1,0 +1,17 @@
+{
+    "_version": "1.12.0",
+    "sap.app": {
+      "id": "simple.fiori.app",
+      "type": "application",
+      "title": "Simple Fiori UI5 App",
+      "description": "A basic Fiori UI5 application",
+      "dataSources": {}
+    },
+    "sap.ui5": {
+      "rootView": {
+        "viewName": "simple.fiori.app.view.App",
+        "type": "XML"
+      }
+    }
+  }
+  
